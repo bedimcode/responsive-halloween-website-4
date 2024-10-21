@@ -1,0 +1,19 @@
+========== HEADER ==========
+.nav__logo
+Halloween
+
+.nav__link
+Home - Events - Visit us - Contact
+
+
+========== HOME ==========
+.home__title
+Ready For <br> Trick Or Treat
+
+.home__description
+Don't wait for trick or treating, pumpkins, 
+and other sweets await you tonight to 
+begin the adventure.
+
+.home__button
+Send Pumpkins
